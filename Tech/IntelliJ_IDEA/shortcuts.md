@@ -1,4 +1,4 @@
-Eclipse   |   IntelliJ IDEA   |   Description
+Eclipse*   |   IntelliJ IDEA*   |   Description*
 -|-|-
 F4   |   ctrl+h   |   show the type hierarchy
 ctrl+alt+g   |   ctrl+alt+F7   |   find usages
@@ -26,6 +26,16 @@ ctrl + shift + i   |   alt + f8   |   evaluate expression (in debugger)
 F3   |   ctrl + b   |   go to declaration (e.g. go to method)
 ctrl + l   |   ctrl + g   |   go to line
 
+*Shortcuts + description list comes from [this source](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
+
 ---
 
+Further shortcuts list without explicit source:
+Eclipse   |   IntelliJ IDEA   |   Description
+-|-|-
+ctrl + w   |   ctrl + F4  |   close current tab
+
+---
+
+Further migration topics:
 https://www.jetbrains.com/help/idea/2018.2/migrating-from-eclipse-to-intellij-idea.html
