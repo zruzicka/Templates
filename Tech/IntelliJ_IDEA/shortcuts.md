@@ -34,6 +34,7 @@ Further shortcuts list without explicit source:
 Eclipse   |   IntelliJ IDEA   |   Description
 -|-|-
 ctrl + w   |   ctrl + F4  |   close current tab
+alt + arrow up/down   |   ctrl + shift + arrow up/down   |   move selected text up/down
 
 ---
 
