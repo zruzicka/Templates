@@ -35,6 +35,7 @@ Eclipse   |   IntelliJ IDEA   |   Description
 -|-|-
 ctrl + w   |   ctrl + F4  |   close current tab
 alt + arrow up/down   |   ctrl + shift + arrow up/down   |   move selected text up/down
+Alt + F5   |   Ctrl+Shift+A and type "reimport"   |   Reimport/Update Maven projects
 
 ---
 
